@@ -45,7 +45,7 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 <img src="Resources/original_model.PNG"/>
 <img src="Resources/original_summary.PNG"/>
 
-- The original model was was not able to achieve the target model 
+- The original model was was not able to achieve the target model **75%** accuracy.
 
 The following attempts were made to increase model performance: 
 
