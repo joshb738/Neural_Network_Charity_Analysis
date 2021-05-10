@@ -51,7 +51,7 @@ The following attempts were made to increase model performance:
 
 #### 1. Optimized Model - Attempt 1
 
-- Change activation features for hidden layers, decrease node count, decrease epochs
+- Change activation features for hidden layers, decrease node count, decrease epochs:
 	- Hidden Layers: 2
 	- Layer 1 Nodes/Activation Feature: 40/Sigmoid
 	- Layer 2 Nodes/Activation Feature: 20/Sigmoid
@@ -63,7 +63,7 @@ The following attempts were made to increase model performance:
 
 #### 2. Optimized Model - Attempt 2
 
-- Add hidden layer, decrease node count, decrease epochs
+- Add hidden layer, decrease node count, decrease epochs:
 	- Hidden Layers: 3
 	- Layer 1 Nodes/Activation Feature: 40/ReLU
 	- Layer 2 Nodes/Activation Feature: 20/ReLU
@@ -76,7 +76,7 @@ The following attempts were made to increase model performance:
 
 #### 3. Optimized Model - Attempt 3
 
-- Add hidden layer, decrease node count, decrease epochs
+- Add hidden layer, decrease node count, decrease epochs:
 	- Hidden Layers: 4
 	- Layer 1 Nodes/Activation Feature: 100/ReLU
 	- Layer 2 Nodes/Activation Feature: 80/ReLU
