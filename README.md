@@ -42,8 +42,8 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 - Output Layer Activation Feature: Sigmoid
 - Epochs = 100
 
-<img src="Resources/original_model.PNG"/>
-<img src="Resources/original_summary.PNG"/>
+<img src="Resources/original.PNG"/>
+<img src="Resources/summary_original.PNG"/>
 
 - The original model was was not able to achieve the target model **75%** accuracy.
 
