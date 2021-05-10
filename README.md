@@ -14,19 +14,19 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 
 ### Data Preprocessing
 
-1. Target Variable for the model
+#### 1. Target Variable for the model
 
 - **IS_SUCCESSFUL** will be the target variable for this model
 
 <img src="Resources/target_variable.PNG"/>
 
-2. Feature Variables for the model
+#### 2. Feature Variables for the model
 
 - **APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, SPECIAL_CONSIDERATIONS** will be the features for this model
 
 <img src="Resources/feature_variables.PNG"/> 
 
-3. Variables to be removed
+#### 3. Variables to be removed
 
 - Non-beneficial variables of **NAME** and **EIN** will be removed from this model
 
