@@ -34,7 +34,7 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 
 ### Compiling, Training, and Evaluating the Model
 
-### Original Model
+#### Original Model
 
 - Hidden Layers: 2
 - Layer 1 Nodes/Activation Feature: 90/ReLU
@@ -49,7 +49,7 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 
 The following attempts were made to increase model performance: 
 
-1. Optimized Model - Attempt 1
+#### 1. Optimized Model - Attempt 1
 
 - Change activation features for hidden layers, decrease node count, decrease epochs
 	- Hidden Layers: 2
@@ -61,7 +61,7 @@ The following attempts were made to increase model performance:
 <img src="Resources/attempt_1.PNG"/>
 <img src="Resources/attempt_1_summary.PNG"/>
 
-2. Optimized Model - Attempt 2
+#### 2. Optimized Model - Attempt 2
 
 - Add hidden layer, decrease node count, decrease epochs
 	- Hidden Layers: 3
@@ -74,7 +74,7 @@ The following attempts were made to increase model performance:
 <img src="Resources/attempt_2.PNG"/>
 <img src="Resources/attempt_2_summary.PNG"/>
 
-3. Optimized Model - Attempt 3
+#### 3. Optimized Model - Attempt 3
 
 - Add hidden layer, decrease node count, decrease epochs
 	- Hidden Layers: 4
