@@ -45,7 +45,7 @@ Using Machine learning and neural networks to create a binary classifier cabpabl
 <img src="Resources/original.PNG"/>
 <img src="Resources/summary_original.PNG"/>
 
-- The original model was was not able to achieve the target model **75%** accuracy.
+- The original model was not able to achieve the target model **75%** accuracy.
 
 The following attempts were made to increase model performance: 
 
@@ -87,3 +87,17 @@ The following attempts were made to increase model performance:
 
 <img src="Resources/attempt_3.PNG"/>
 <img src="Resources/attempt_3_summary.PNG"/>
+
+## Summary
+
+- The original model achieved **70%** accuracy which does not meet the targeted accuracy of **75%**
+- After 3 attempts to optimize the original model, the model was still unable to achieve the desired accuracy.
+- The closest result was **73%** on **Attempt 2**, by reducing the epochs to 15, adding an additional third hidden layer, and reducing the node count for each hidden layer.
+
+#### Recommendations to achieve the 75% accuracy for future models:
+- Adjust the source data to remove outliers or variables that are confusing the model.
+- Create additional bins for rare occurrences in columns.
+- Increase or decrease the value for each bin.
+- Remove additional unnecessary columns.
+
+
